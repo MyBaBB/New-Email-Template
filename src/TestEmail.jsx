@@ -27,7 +27,7 @@ const EmailTemplate = () => (
               fontFamily: 'georgia, serif',
 
           }}>
-             E-Mail Template Example
+             Email Template Example
            </p>
             <p className="text-center text-xl text-green-400 mx-8 " 
           style={{border: '2px solid transparent',
