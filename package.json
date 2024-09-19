@@ -2,7 +2,7 @@
   "name": "newgoody",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mybabb.github.io/BasicEmail_gh_pages/",
+  "homepage": "https://mybabb.github.io/New-Email-Template/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
