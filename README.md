@@ -5,4 +5,4 @@
 I use this as an example template for a build,
 (https://picsum.photos/width/Height) is a placeholder for an image,
 
-![Image](emailReadme.png)
+![Image](emailReadme.jpg)
