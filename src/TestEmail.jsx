@@ -147,7 +147,7 @@ const EmailTemplate = () => (
                 </div>
                 <a href="https://custom.email.mybabb.com/">
             <div className="relative font-Itim-Regular w-fit left-3 m-auto mb-2   hover:opacity-70 top-4 p-1 px-2 rounded-2xl
-             bg-blue-950 text-white border-[.5px] border-white">
+             bg-blue-950 text-[hotpink] border-[.5px] border-white">
                To Samples
             </div>
 </a> 
