@@ -244,7 +244,7 @@ const EmailTemplate = () => (
           }}>
               Fast Loading Landing Page  
            </p>
-              <p className="text-center text-xl text-green-400 mx-8 " 
+              <p className="text-center text-xl text-green-400 mx-8 mb-8" 
           style={{border: '2px solid transparent',
               fontFamily: 'georgia, serif',
 
@@ -255,16 +255,16 @@ const EmailTemplate = () => (
             
             </div>
 
-            <div className="fixed bottom-0  right-8 w-fit m-auto mt-2
+            
+          </div >
+          
+        </div>
+        <div className="fixed bottom-0  right-8 w-fit m-auto mt-2
                                 rounded-xl py-[2px] px-[4px]   ">
                 <p className="text-blue-200 ">
               &lt;&lt;&lt;&copy;&nbsp;<span className="text-orange-400">Brett&apos;s</span>&nbsp;8/2023 &gt;&gt;&gt;
                </p>
-                   </div>
-          </div>
-          
-        </div>
-        
+         </div>
       </div>
     </div>
     
