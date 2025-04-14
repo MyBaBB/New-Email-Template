@@ -183,7 +183,7 @@ const EmailTemplate = () => (
               >
  <div className="flex justify-center w-fit m-auto mt-2  "
                 style={{border:'2px solid transparent '}}>
-                  <a href="https://resume-hub.mybabb.com/">
+                  <a href="https://about.us.mybabb.com/AboutUsPage">
                     <img
                       src="https://fastweb.mybabb.com/images/Octopussy2.gif"
                       alt="Octopus Portfolio Image" className="rounded-xl"
